@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm [Lcsbs](https://gitee.com/lcsbs) 👋
 
-> :octocat: 梦想成为技术大牛，走向财富自由，正在探索中，欢迎来访 →_→
+> :octocat: Become an Apache top project committer ^_^
 
 <img align="right" alt="This is my state" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="280"/>
 
